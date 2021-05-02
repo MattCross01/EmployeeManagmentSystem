@@ -1,7 +1,5 @@
 # Employee Management System
 
-# Unit 12 MySQL Homework: Employee Tracker
-
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
